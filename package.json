@@ -1,0 +1,13 @@
+{
+  "name": "pazguille-scrolling",
+  "description": "Decouple the scroll event from the callback functions.",
+  "version": "0.1.0",
+  "keywords": [
+    "scroll",
+    "scrolling",
+    "event"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
